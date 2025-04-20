@@ -7321,7 +7321,34 @@ ${c1} `..-+${c2}oosssssssssssssssssssssssso${c3}+++++/`
    ./++++++++++++++++++++++++++++++/:.
   `:::::::::::::::::::::::::------``
 EOF
-        ;;
+;;
+
+"MakOS"*)
+    set_colors 13
+    read -rd '' ascii_data <<'EOF'
+${c1}      yyz            zzz     zzz         
+${c1}      yyz            zzz     zzz         
+${c1}     zzzzzzzzz          zzzzzzzzzyy      
+${c1}     zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz      
+${c1}     zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz      
+${c1}     zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz      
+${c1}      zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz     
+${c1}      zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz     
+${c1}      zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz     
+${c1}      zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz   
+${c1}      zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz   
+${c1}     z  zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz  
+${c1}  zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz  
+${c1}  zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz  
+${c1}  yzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz  
+${c1}  zzz zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz  
+${c1}  zzz zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz  
+${c1}   zzzzzzzzzzzzzzzzzzzzzzzzzzzyy         
+${c1}                  zzzzzyzzzyy             
+${c1}                  zzzzzyzzzyy             
+EOF
+    ;;
+
 
         "Endless"*)
             set_colors 1 7
