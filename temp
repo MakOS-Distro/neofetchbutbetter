@@ -1,0 +1,25 @@
+"MakOS"*)                                   
+    set_colors 13                           
+    read -rd '' ascii_data <<'EOF'          
+${c1}      yyz            zzz     zzz       
+${c1}      yyz            zzz     zzz       
+${c1}     zzzzzzzzz          zzzzzzzzzyy    
+${c1}     zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz    
+${c1}     zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz    
+${c1}     zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz    
+${c1}      zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz   
+${c1}      zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz   
+${c1}      zzzzzzzzzzXXXzzzzzzXXzzzzzzzzz   
+${c1}      zzzzzzzzXXXzXzzzzzXzXXzzzzzzzzzz 
+${c1}      zzzzzzzXXzzzzXzzzXXzzXXzzzzzzzzz 
+${c1}     z  zzzzXXzzzzzXXzXXzzzzXzzzzzzzzzz
+${c1}  zzzzzzzzzzXzzzzzzzXzXzzzzzXXzzzzzzzzz
+${c1}  zzzzzzzzXXXzzzzzzzzXXzzzzzzXXzzzzzzzz
+${c1}  yzzzzzzzXzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+${c1}  zzz zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+${c1}  zzz zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+${c1}   zzzzzzzzzzzzzzzzzzzzzzzzzzzyy       
+${c1}                  zzzzzyzzzyy          
+${c1}                  zzzzzyzzzyy          
+EOF                                         
+    ;;                                      
