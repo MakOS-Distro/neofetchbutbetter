@@ -7326,28 +7326,27 @@ EOF
 "MakOS"*)
     set_colors 13 7
     read -rd '' ascii_data <<'EOF'
-${c1}      yyz                    zzz       
-${c1}      yyz                    zzz       
-${c1}     zzzzzzzzz          zzzzzzzzzyy    
-${c1}     zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz    
-${c1}     zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz    
-${c1}     zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz    
-${c1}      zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz   
-${c1}      zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz   
-${c1}      zzzzzzzzzz${c2}MMM${c1}zzzzzz${c2}MM${c1}zzzzzzzzz   
-${c1}      zzzzzzzz${c2}MMM${c1}z${c2}M${c1}zzzzz${c2}M${c1}z${c2}MM${c1}zzzzzzzz 
-${c1}      zzzzzzz${c2}MM${c1}zzzz${c2}M${c1}zzz${c2}MM${c1}zz${c2}MM${c1}zzzzzzzzz 
-${c1}     z  zzzz${c2}MM${c1}zzzzz${c2}MM${c1}${c2}MM${c1}zzzz${c2}M${c1}zzzzzzzzzz
-${c1}  zzzzzzzzzz${c2}M${c1}zzzzzzz${c2}M${c1}z${c2}M${c1}zzzzz${c2}MM${c1}zzzzzzzzz
-${c1}  zzzzzzzz${c2}MMM${c1}zzzzzzzz${c2}MM${c1}zzzzzz${c2}MM${c1}zzzzzzzz
-${c1}  yzzzzzzz${c2}M${c1}zzzzzzzzzzzzzzzzzzzzzzzzzz
-${c1}  zzz zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-${c1}  zzz zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-${c1}   zzzzzzzzzzzzzzzzzzzzzzzzzzzyy       
-${c1}           zzzzzzzzzzzzyzzzyy          
-${c1}                  zzzzzyzzzyy          
-
-
+    ${c1}       @@@         @@@            
+    ${c1}  @  @@       @   @             
+    ${c1}  @    @@@@@@@    @             
+    ${c1}  @               @             
+    ${c1} @   @@      @@   @@            
+    ${c1} @   @@      @@    @            
+    ${c1} @       @@       @@            
+    ${c1} @@       .       @@             
+    ${c1}  @@@         @@@@              
+    ${c1}  @@              @      @@     
+    ${c1}  @                @    @  @    
+    ${c1}  @                 @    @  @   
+    ${c1}  @                  @    @  @  
+    ${c1}  @                   @@  @  @  
+    ${c1}  @@                   @  @  @  
+    ${c1}   @   @@      @        @ @  @  
+    ${c1}   @    @ @   @         @@  @   
+    ${c1}   @    @ @   @         @   @   
+    ${c1}   @    @ @   @        @@  @    
+    ${c1}  @    @@@    @@       @ @      
+    ${c1}  @@@@@  @@@@@ @@@@@@@          
 EOF
     ;;
 
