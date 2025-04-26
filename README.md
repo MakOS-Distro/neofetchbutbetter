@@ -28,4 +28,3 @@ Neofetch supports almost 150 different operating systems. From Linux to Windows,
 
 
 ### More: \[[Dependencies](https://github.com/dylanaraps/neofetch/wiki/Dependencies)\] \[[Installation](https://github.com/dylanaraps/neofetch/wiki/Installation)\] \[[Wiki](https://github.com/dylanaraps/neofetch/wiki)\]
-s
